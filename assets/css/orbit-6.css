@@ -92,7 +92,7 @@ p {
   margin-bottom: 15px;
 }
 
-.sidebar-wrapper .contact-list .svg-inline--fa {
+.sidebar-wrapper .contact-list .fa {
   margin-right: 8px;
   font-size: 18px;
   vertical-align: middle;
@@ -118,8 +118,8 @@ p {
   margin-bottom: 5px;
 }
 
-.sidebar-wrapper .contact-list .email .svg-inline--fa {
-  font-size: 16px;
+.sidebar-wrapper .contact-list .email .fa {
+  font-size: 18px;
 }
 
 .sidebar-wrapper .container-block {
@@ -222,7 +222,7 @@ p {
 .main-wrapper .section-title .icon-holder {
   width: 30px;
   height: 30px;
-  margin-right: 8px;
+  margin-right: 10px;
   display: inline-block;
   color: #fff;
   -webkit-border-radius: 50%;
@@ -234,25 +234,27 @@ p {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   background: #2e4049;
+  padding-top: 6px;
+  padding-left: 1px;
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   position: relative;
-  top: -8px;
+  top: -2px;
 }
 
-.main-wrapper .section-title .icon-holder .svg-inline--fa {
-  font-size: 14px;
-  margin-top: 6px;
+.main-wrapper .section-title .icon-holder .fa {
+  font-size: 18px;
 }
 
 .main-wrapper .section {
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 
 .main-wrapper .section .summary {
   font-size: 16px;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.9);
+  text-align: justify;
 }
 
 .main-wrapper .experiences-section .item {
