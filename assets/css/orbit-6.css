@@ -110,6 +110,16 @@ p {
   font-size: 16px;
 }
 
+.sidebar-wrapper .contact-list .misc {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.sidebar-wrapper .contact-list .misc:last-child  {
+  margin-bottom: 0px;
+}
+
 .sidebar-wrapper .contact-list .email:last-child  {
   margin-bottom: 0px;
 }
