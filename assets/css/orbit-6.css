@@ -318,6 +318,10 @@ p {
   overflow: hidden;
 }
 
+.skillset .item li:last-child {
+  margin-bottom: 0px;
+}
+
 .skillset .level-title {
   font-size: 14px;
   margin-top: 0;
