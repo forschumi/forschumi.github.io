@@ -4,6 +4,7 @@
   journal={IEICE Transactions on Information and Systems},
   volume={E101-D},
   number={11},
+  pages={2849--2854},
   year={2018},
   publisher={IEICE},
   doi={https://doi.org/10.1587/transinf.2018EDL8074}
