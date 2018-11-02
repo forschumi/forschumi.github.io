@@ -1,0 +1,8 @@
+@inproceedings{pgao2018spie,
+  title={A Complementary Tracking Model with Multiple Features},
+  author={Gao, Peng and Ma, Yipeng and Li, Chao and Song, Ke and Wang, Fei and Xiao, Liyi},
+  booktitle={Proceedings of SPIE 10836 (IVPAI)},
+  year={2018},
+  organization={SPIE},
+  doi={10.1117/12.2500635}
+}
