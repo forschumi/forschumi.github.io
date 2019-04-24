@@ -3,5 +3,6 @@
   author={Song, Ke and Yuan, Chun and Gao, Peng and Sun, Yunxu},
   booktitle={Proceedings of IEEE 14th International Conference on Solid-State and Integrated Circuit Technology (ICSICT)},
   year={2018},
-  organization={IEEE}
+  organization={IEEE},
+  doi={http://dx.doi.org/10.1109/ICSICT.2018.8565781}
 }

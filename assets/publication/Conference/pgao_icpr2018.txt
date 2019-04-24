@@ -4,5 +4,6 @@
   booktitle={Proceedings of the 24th International Conference on Pattern Recognition (ICPR)},
   pages={2380--2385},
   year={2018},
-  organization={IAPR}
+  organization={IAPR},
+  doi={http://dx.doi.org/10.1109/ICPR.2018.8545716}
 }
