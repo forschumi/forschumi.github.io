@@ -1,0 +1,7 @@
+﻿@inproceedings{qni_icmssp2019,
+  title={FPGA-based Binocular Image Feature Extraction and Matching System},
+  author={Ni, Qi and Wang, Fei and Zhao, Ziwei and Gao, Peng},
+  booktitle={Proceedings of the 4th International Conference on Multimedia Systems and Signal Processing (ICMSSP)},
+  year={2019},
+  organization={ACM}
+}
