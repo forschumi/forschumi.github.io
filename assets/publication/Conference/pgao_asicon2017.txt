@@ -1,7 +1,7 @@
 ﻿@inproceedings{pgao_asicon2017,
   title={A Novel Low-cost FPGA-based Real-time Object Tracking System},
   author={Gao, Peng and Yuan, Ruyue and Lin, Zhicong and Zhang, Linsheng and Zhang, Yan},
-  booktitle={Proceedings of IEEE International Conference on ASIC (ASICON)},
+  booktitle={Proceedings of 12th IEEE International Conference on ASIC (ASICON)},
   pages={654--657},
   year={2017},
   organization={IEEE},

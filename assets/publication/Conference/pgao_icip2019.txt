@@ -1,7 +1,7 @@
 ﻿@inproceedings{pgao_icip2019,
   title={Learning Cascaded Siamese Networks for High Performance Visual Tracking},
   author={Gao, Peng and Ma, Yipeng and Yuan, Ruyue and Xiao, Liyi and Wang, Fei},
-  booktitle={Proceedings of International Conference on Image Processing (ICIP)},
+  booktitle={Proceedings of IEEE 26th International Conference on Image Processing (ICIP)},
   year={2019},
   organization={IEEE}
 }

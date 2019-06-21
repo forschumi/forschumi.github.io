@@ -1,0 +1,7 @@
+﻿@inproceedings{zbzhou_icig2019,
+  title={Joint Multi-frame Detection and Segmentation for Multi-cell Tracking},
+  author={Zhou, Zibin and Wang, Fei and Xi, Wenjuan and Chen, Huaying and Gao, Peng and He, Cheng-Kang},
+  booktitle={Proceedings of CSIG 10th International Conference on Image and Graphics (ICIG)},
+  year={2019},
+  organization={Springer}
+}
