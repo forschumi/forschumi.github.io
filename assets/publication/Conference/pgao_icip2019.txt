@@ -2,6 +2,8 @@
   title={Learning Cascaded Siamese Networks for High Performance Visual Tracking},
   author={Gao, Peng and Ma, Yipeng and Yuan, Ruyue and Xiao, Liyi and Wang, Fei},
   booktitle={Proceedings of IEEE 26th International Conference on Image Processing (ICIP)},
+  pages={3078-3082},
   year={2019},
-  organization={IEEE}
+  organization={IEEE},
+  doi={http://dx.doi.org/10.1109/ICIP.2019.8803285}
 }
