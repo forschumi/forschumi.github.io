@@ -1,9 +1,10 @@
 @inproceedings{pgao2018spie,
   title={A Complementary Tracking Model with Multiple Features},
   author={Gao, Peng and Ma, Yipeng and Li, Chao and Song, Ke and Wang, Fei and Xiao, Liyi},
-  booktitle={International Conference on Image, Video Processing and Artificial Intelligence (IVPAI)},
+  booktitle={International Conference on Image and Video Processing, and Artificial Intelligence (IVPAI)},
   series={Proceedings of SPIE 10836},
+  pages={248--252},
   year={2018},
-  organization={SPIE},
-  doi={http://dx.doi.org/10.1117/12.2500635}
+  publisher={SPIE},
+  doi={10.1117/12.2500635}
 }

@@ -1,10 +1,10 @@
-﻿@inproceedings{ypma_accv2018,
+﻿@inproceedings{ypma2018accv,
   title={Efficient Multi-level Correlating for Visual Tracking},
   author={Ma, Yipeng and Yuan, Chun and Gao, Peng and Wang, Fei},
   booktitle={Proceedings of the 14th Asian Conference on Computer Vision (ACCV)},
   series={Lecture Notes in Computer Science 11365},
   pages={452--465},
   year={2018},
-  organization={Springer},
-  doi={https://doi.org/10.1007/978-3-030-20873-8_29}
+  publisher={Springer},
+  doi={10.1007/978-3-030-34110-7_36}
 }

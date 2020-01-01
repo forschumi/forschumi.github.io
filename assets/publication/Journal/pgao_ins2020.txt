@@ -1,0 +1,10 @@
+@article{pgao2020ins,
+  title={Learning Reinforced Attentional Representation for End-to-End Visual Tracking},
+  author={Gao, Peng and Zhang, Qiquan and Wang, Fei and Xiao, Liyi and Fujita, Hamido and Zhang, Yan},
+  journal={Information Sciences},
+  volume={},
+  pages={},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.ins.2019.12.084}
+}

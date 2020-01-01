@@ -1,0 +1,10 @@
+@article{pgao2020knosys,
+  title={Siamese Attentional Keypoint Network for High Performance Visual Tracking},
+  author={Gao, Peng and Yuan, Ruyue Wang, Fei and Xiao, Liyi and Fujita, Hamido and Zhang, Yan},
+  journal={Knowledge-Based Systems},
+  volume={},
+  pages={},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.knosys.2019.105448}
+}

@@ -1,8 +1,10 @@
 @inproceedings{zchu2019spie,
   title={Research on Autonomous Maneuvering Decision of UCAV based on Approximate Dynamic Programming},
   author={Hu, Zhencai and Gao, Peng and Wang, Fei},
-  booktitle={International Conference on Image, Video Processing and Artificial Intelligence (IVPAI)},
-  series={Proceedings of SPIE},
+  booktitle={International Conference on Image and Video Processing, and Artificial Intelligence (IVPAI)},
+  series={Proceedings of SPIE 11321},
+  pages={636--641},
   year={2019},
-  organization={SPIE}
+  publisher={SPIE},
+  doi={10.1117/12.2547893}
 }

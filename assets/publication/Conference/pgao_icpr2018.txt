@@ -1,9 +1,9 @@
-﻿@inproceedings{pgao_icpr2018,
+﻿@inproceedings{pgao2018icpr,
   title={Large Margin Structured Convolution Operator for Thermal Infrared Object Tracking},
   author={Gao, Peng and Ma, Yipeng and Song, Ke and Li, Chao and Wang, Fei and Xiao, Liyi},
   booktitle={Proceedings of the 24th International Conference on Pattern Recognition (ICPR)},
   pages={2380--2385},
   year={2018},
-  organization={IAPR},
-  doi={http://dx.doi.org/10.1109/ICPR.2018.8545716}
+  publisher={IEEE},
+  doi={10.1109/ICPR.2018.8545716}
 }
